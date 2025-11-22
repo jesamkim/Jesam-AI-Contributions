@@ -24,16 +24,17 @@
 
 ## 💻 Workshops, GitHub Repositories and Technical Assets
 
-1. **AWS PowerPoint Script Generator**: Quack the Code Challenge, AWS Deck script automation. [GitHub](https://github.com/jesamkim/aws-pptx-script-generator)
-2. **Amazon Bedrock Strands Agents Workshop**: AI x Industry Week 2025, CSAT 4.54/5.0. Practical AI Agent implementation workshop. [GitHub](https://github.com/chloe-kwak/strands-agent-workshop) | [YouTube](https://youtu.be/TUvQ4kC15IY)
-3. **Easy Vector & Graph RAG Workshop**: TechCamp 2025, 2,024 participants. Currently used as standard content for customer education by other SAs. [GitHub](https://github.com/aws-samples/aws-ai-ml-workshop-kr)
-4. **AWS AI Assistant Chrome Extension**: Chrome extension for AWS AI assistance. [GitHub](https://github.com/jesamkim/chrome-ai)
-5. **Agentic RAG Chatbot**: Agentic RAG pattern. [GitHub](https://github.com/jesamkim/sct-spec-kb-poc)
-6. **DWF Analyzer MCP Server**: AutoCAD DWF drawing analysis MCP server. [GitHub](https://github.com/jesamkim/dwf-analyzer-mcp)
-7. **Amazon Bedrock TwelveLabs Pegasus 1.2 Video Analyzer**: Video file analysis and summarization. [GitHub](https://github.com/jesamkim/bedrock-pegasus-video-analyzer)
-8. **PDF Drawing Parser**: Construction drawing parsing with Amazon Bedrock. [GitHub](https://github.com/jesamkim/diagram-parsing)
-9. **Voice Chatbot**: Voice chatbot using Transcribe, Polly, and Bedrock. [GitHub](https://github.com/jesamkim/voice-chat-with-bedrock)
-10. **AWS GenAI Workshop for Retail**: Retail industry GenAI workshop. [GitHub](https://github.com/jesamkim/aws-genai-for-retail)
+1. **Agentic Multi-Agent ESG Analysis System**: Multi-agent system with Strands Agents, A2A, MCP. 6x efficiency improvement, Samsung C&T Sustainability Report analysis demo. [GitHub](https://github.com/jesamkim/agentic-multi-agent)
+2. **AWS PowerPoint Script Generator**: Quack the Code Challenge, AWS Deck script automation. [GitHub](https://github.com/jesamkim/aws-pptx-script-generator)
+3. **Amazon Bedrock Strands Agents Workshop**: AI x Industry Week 2025, CSAT 4.54/5.0. Practical AI Agent implementation workshop. [GitHub](https://github.com/chloe-kwak/strands-agent-workshop) | [YouTube](https://youtu.be/TUvQ4kC15IY)
+4. **Easy Vector & Graph RAG Workshop**: TechCamp 2025, 2,024 participants. Currently used as standard content for customer education by other SAs. [GitHub](https://github.com/aws-samples/aws-ai-ml-workshop-kr)
+5. **AWS AI Assistant Chrome Extension**: Chrome extension for AWS AI assistance. [GitHub](https://github.com/jesamkim/chrome-ai)
+6. **Agentic RAG Chatbot**: Agentic RAG pattern. [GitHub](https://github.com/jesamkim/sct-spec-kb-poc)
+7. **DWF Analyzer MCP Server**: AutoCAD DWF drawing analysis MCP server. [GitHub](https://github.com/jesamkim/dwf-analyzer-mcp)
+8. **Amazon Bedrock TwelveLabs Pegasus 1.2 Video Analyzer**: Video file analysis and summarization. [GitHub](https://github.com/jesamkim/bedrock-pegasus-video-analyzer)
+9. **PDF Drawing Parser**: Construction drawing parsing with Amazon Bedrock. [GitHub](https://github.com/jesamkim/diagram-parsing)
+10. **Voice Chatbot**: Voice chatbot using Transcribe, Polly, and Bedrock. [GitHub](https://github.com/jesamkim/voice-chat-with-bedrock)
+11. **AWS GenAI Workshop for Retail**: Retail industry GenAI workshop. [GitHub](https://github.com/jesamkim/aws-genai-for-retail)
 
 
 ## 🏅 Recent Certificates and Awards

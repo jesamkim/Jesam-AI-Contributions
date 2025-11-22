@@ -24,16 +24,17 @@
 
 ## 💻 Workshops, GitHub Repositories and Technical Assets
 
-1. **AWS PowerPoint Script Generator**: Quack the Code Challenge, AWS Deck 스크립트 자동 생성. [GitHub](https://github.com/jesamkim/aws-pptx-script-generator)
-2. **Amazon Bedrock Strands Agents Workshop**: AI x Industry Week 2025, CSAT 4.54/5.0. 실용적인 AI Agent 구현 워크샵. [GitHub](https://github.com/chloe-kwak/strands-agent-workshop) | [YouTube](https://youtu.be/TUvQ4kC15IY)
-3. **Easy Vector & Graph RAG Workshop**: TechCamp 2025, 2,024명 수강. 현재 다른 SA들의 고객 교육 표준 콘텐츠로 활용. [GitHub](https://github.com/aws-samples/aws-ai-ml-workshop-kr)
-4. **AWS AI Assistant Chrome Extension**: Chrome 확장 프로그램, AWS AI 지원. [GitHub](https://github.com/jesamkim/chrome-ai)
-5. **Agentic RAG Chatbot**: Agentic RAG 패턴. [GitHub](https://github.com/jesamkim/sct-spec-kb-poc)
-6. **DWF Analyzer MCP Server**: AutoCAD DWF 도면 분석 MCP 서버. [GitHub](https://github.com/jesamkim/dwf-analyzer-mcp)
-7. **Amazon Bedrock TwelveLabs Pegasus 1.2 비디오 분석기**: 비디오 파일 분석 및 요약. [GitHub](https://github.com/jesamkim/bedrock-pegasus-video-analyzer)
-8. **PDF 도면 파싱**: Amazon Bedrock을 활용한 건설 도면 파싱. [GitHub](https://github.com/jesamkim/diagram-parsing)
-9. **Voice Chatbot**: Transcribe, Polly, Bedrock을 활용한 음성 챗봇. [GitHub](https://github.com/jesamkim/voice-chat-with-bedrock)
-10. **AWS GenAI Workshop for Retail**: 리테일 산업 GenAI 워크샵. [GitHub](https://github.com/jesamkim/aws-genai-for-retail)
+1. **Agentic Multi-Agent ESG Analysis System**: Strands Agents, A2A, MCP 기반 Multi-Agent 시스템. 6배 효율 향상, 삼성물산 지속가능보고서 분석 demo. [GitHub](https://github.com/jesamkim/agentic-multi-agent)
+2. **AWS PowerPoint Script Generator**: Quack the Code Challenge, AWS Deck 스크립트 자동 생성. [GitHub](https://github.com/jesamkim/aws-pptx-script-generator)
+3. **Amazon Bedrock Strands Agents Workshop**: AI x Industry Week 2025, CSAT 4.54/5.0. 실용적인 AI Agent 구현 워크샵. [GitHub](https://github.com/chloe-kwak/strands-agent-workshop) | [YouTube](https://youtu.be/TUvQ4kC15IY)
+4. **Easy Vector & Graph RAG Workshop**: TechCamp 2025, 2,024명 수강. 현재 다른 SA들의 고객 교육 표준 콘텐츠로 활용. [GitHub](https://github.com/aws-samples/aws-ai-ml-workshop-kr)
+5. **AWS AI Assistant Chrome Extension**: Chrome 확장 프로그램, AWS AI 지원. [GitHub](https://github.com/jesamkim/chrome-ai)
+6. **Agentic RAG Chatbot**: Agentic RAG 패턴. [GitHub](https://github.com/jesamkim/sct-spec-kb-poc)
+7. **DWF Analyzer MCP Server**: AutoCAD DWF 도면 분석 MCP 서버. [GitHub](https://github.com/jesamkim/dwf-analyzer-mcp)
+8. **Amazon Bedrock TwelveLabs Pegasus 1.2 비디오 분석기**: 비디오 파일 분석 및 요약. [GitHub](https://github.com/jesamkim/bedrock-pegasus-video-analyzer)
+9. **PDF 도면 파싱**: Amazon Bedrock을 활용한 건설 도면 파싱. [GitHub](https://github.com/jesamkim/diagram-parsing)
+10. **Voice Chatbot**: Transcribe, Polly, Bedrock을 활용한 음성 챗봇. [GitHub](https://github.com/jesamkim/voice-chat-with-bedrock)
+11. **AWS GenAI Workshop for Retail**: 리테일 산업 GenAI 워크샵. [GitHub](https://github.com/jesamkim/aws-genai-for-retail)
 
 
 ## 🏅 Recent Certificates and Awards
