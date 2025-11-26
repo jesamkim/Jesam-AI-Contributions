@@ -24,7 +24,7 @@
 
 ## 💻 Workshops, GitHub Repositories and Technical Assets
 
-1. **Agentic Multi-Agent ESG Analysis System**: Multi-agent system with Strands Agents, A2A, MCP. 6x efficiency improvement, Samsung C&T Sustainability Report analysis demo. [GitHub](https://github.com/jesamkim/agentic-multi-agent)
+1. **Agentic Multi-Agent ESG Analysis System**: Agentic AI ; Multi-agent demo with Strands Agents, A2A, MCP. [GitHub](https://github.com/jesamkim/agentic-multi-agent)
 2. **AWS PowerPoint Script Generator**: Quack the Code Challenge, AWS Deck script automation. [GitHub](https://github.com/jesamkim/aws-pptx-script-generator)
 3. **Amazon Bedrock Strands Agents Workshop**: AI x Industry Week 2025, CSAT 4.54/5.0. Practical AI Agent implementation workshop. [GitHub](https://github.com/chloe-kwak/strands-agent-workshop) | [YouTube](https://youtu.be/TUvQ4kC15IY)
 4. **Easy Vector & Graph RAG Workshop**: TechCamp 2025, 2,024 participants. Currently used as standard content for customer education by other SAs. [GitHub](https://github.com/aws-samples/aws-ai-ml-workshop-kr)
