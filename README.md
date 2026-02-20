@@ -10,6 +10,11 @@
 6. 김제삼 외 4, **"롯데ON 사례로 본 개인화 추천 시스템 구축하기, 1부: Dynamic A/B Testing 아키텍처 구축"**, *AWS Korea Tech Blog*, 2023. [Link](https://aws.amazon.com/ko/blogs/tech/amazon-sagemaker-dynamic-ab-test/)
 7. 김제삼 외 4, **"롯데ON 사례로 본 개인화 추천 시스템 구축하기, 2부: Amazon SageMaker를 활용한 MLOps 구성 및 추천 모델 실시간 서비스"**, *AWS Korea Tech Blog*, 2023. [Link](https://aws.amazon.com/ko/blogs/tech/amazon-sagemaker-ncf-mlops/)
 
+## 📝 AI Tech Blog
+
+- **AI/ML 기술 심층분석, 논문 리뷰, AWS 아키텍처 설계**를 다루는 개인 기술 블로그
+- [https://jesamkim.github.io/ai-tech-blog/](https://jesamkim.github.io/ai-tech-blog/)
+
 ## 🎤 Recent AWS Public Speaking Engagements
 
 1. 김제삼, 전혜문 (Samsung C&T), **"삼성물산의 AI Agent를 활용한 Cognitive Building Platform"**, AWS AI x Industry Week Conference, 2025년 10월 15일. [YouTube](https://youtu.be/RVmNhuRe8EY?si=TqsVLdAesU2VuhTc)

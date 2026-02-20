@@ -10,6 +10,11 @@
 6. Jesam Kim et al., **"Building a Personalized Recommendation System with LotteON Case Study, Part 1: Dynamic A/B Testing Architecture"**, *AWS Korea Tech Blog*, 2023. [Link](https://aws.amazon.com/ko/blogs/tech/amazon-sagemaker-dynamic-ab-test/)
 7. Jesam Kim et al., **"Building a Personalized Recommendation System with LotteON Case Study, Part 2: MLOps Configuration and Real-time Recommendation Model Service with Amazon SageMaker"**, *AWS Korea Tech Blog*, 2023. [Link](https://aws.amazon.com/ko/blogs/tech/amazon-sagemaker-ncf-mlops/)
 
+## 📝 AI Tech Blog
+
+- Personal tech blog covering **AI/ML deep dives, paper reviews, and AWS architecture design**
+- [https://jesamkim.github.io/ai-tech-blog/](https://jesamkim.github.io/ai-tech-blog/)
+
 ## 🎤 Recent AWS Public Speaking Engagements
 
 1. Jesam Kim, Hyemun Jeon (Samsung C&T), **"Samsung C&T's Cognitive Building Platform with AI Agent"**, AWS AI x Industry Week Conference, October 15, 2025. [YouTube](https://youtu.be/RVmNhuRe8EY?si=TqsVLdAesU2VuhTc)
